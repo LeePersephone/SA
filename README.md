@@ -1,7 +1,7 @@
 # CS50 WEB PROGRAMMING FINAL PROJECT: SQUAD ASSEMBLE
 Squad Assemble is a fun Social Website. In this Project I have used Django and Django-Rest-Framework for Backend and React For Frontend.
 
-### Demo of this site available here [Squad Demo](https://squad.com)
+### Demo of this site available here [SA Demo](https://leepersephone.github.com/SA)
 
 
 ## Main idea
